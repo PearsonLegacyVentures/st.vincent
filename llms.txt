@@ -2,7 +2,7 @@
 
 Luxury mobile massage service across St. Vincent and the Grenadines.
 
-Canonical site: https://stvincent.tranquilitasspa.com/
+Canonical site: https://svg.tranquilitasspa.com/
 
 Primary services:
 - Swedish Massage

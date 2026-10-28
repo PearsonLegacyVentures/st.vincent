@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://stvincent.tranquilitasspa.com/sitemap.xml
+Sitemap: https://svg.tranquilitasspa.com/sitemap.xml
