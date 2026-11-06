@@ -136,3 +136,11 @@ body{background:var(--ivory)}
   .area-copy{padding:48px 24px}
   .photo{height:360px}
 }
+
+/* Booking selection and responsive price estimate. */
+.booking-guests-field input{width:100%;min-height:44px;box-sizing:border-box}
+.booking-price-panel{background:#edf5f1;border:1px solid #c7dfd2;border-radius:17px;padding:19px 21px;color:#214d41}
+.booking-price-panel>strong{display:block;color:#214d41}
+.booking-price-panel p{margin:9px 0;color:#37594d}
+.booking-price-panel .booking-price-value{font-weight:800;font-size:clamp(18px,3vw,23px);color:#125c4b}
+.booking-price-panel small{display:block;font-size:12px;line-height:1.55;color:#4d6f60}
